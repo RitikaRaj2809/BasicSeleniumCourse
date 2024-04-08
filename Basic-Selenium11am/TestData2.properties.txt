@@ -1,0 +1,5 @@
+#commondata
+#Thu Mar 14 12:55:16 IST 2024
+password=secret_sauce
+url=https\://www.saucedemo.com/
+username=standard_user

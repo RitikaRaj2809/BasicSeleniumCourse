@@ -1,0 +1,5 @@
+#coomondata
+#Thu Mar 14 13:55:17 IST 2024
+password=Ritsjuicy@321
+emailaddress=ritikaraj.28@gmail.com
+url=https\://www.facebook.com/
